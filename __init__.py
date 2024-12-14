@@ -68,7 +68,6 @@ except ImportError as error:
 bl_info = {
     "name": "LuxCoreRender",
     "author": "Simon Wendsche (B.Y.O.B.), Michael Klemm (neo2068), Odilkhan Yakubov (odil24), acasta69, u3dreal, Philstix",
-for_blender_4.2
     "version": (2, 9),
     "blender": (4, 2, 0),
     "category": "Render",
